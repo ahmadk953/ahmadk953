@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Simple HTML, CSS, and Python**
 
-- 📫 How to reach me **ahmad.khan@outoforgedu.team**
+- 📫 How to reach me **ahmad.khan@outoforgedu.tk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
