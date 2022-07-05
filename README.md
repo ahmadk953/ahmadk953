@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [html-lerning-website-101](https://github.com/ahmadk953/html-lerning-website-101)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, and Python**
+- 🌱 I’m currently learning **HTML, CSS, JS, C#, and Python**
 
 - 🤝 I’m looking for help with [html-lerning-website-101](https://github.com/ahmadk953/html-lerning-website-101)
 
