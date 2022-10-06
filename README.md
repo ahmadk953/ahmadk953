@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **support@ahmadsblog.tk**
 
+- 📜 Most of my work is licenced under the Apache-2.0 license
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khanahm58294068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khanahm58294068" height="30" width="40" /></a>
