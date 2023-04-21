@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Simple HTML, CSS, and Python**
 
-- 📫 How to reach me **support@ahmadsblog.tk**
+- 📫 How to reach me **akhan@outoforgedu.tk**
 
 - 📜 Most of my work is licenced under the Apache-2.0 license
 
