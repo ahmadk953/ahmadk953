@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadk953" alt="ahmadk953" /></a> </p>
 
-- 🔭 I’m currently working on [My First Docker Image](https://github.com/ahmadk953/my-first-docker-image)
+- 🔭 I’m currently working on [Threads Clone](https://github.com/ahmadk953/threads-clone)
 
-- 🌱 I’m currently learning **C++ and other Low-Level languages, Python, JavaScript, and Java**
+- 🌱 I’m currently learning **C++ and other Low-Level languages, Python, JavaScript, TypeScript, and Java**
 
 - 👯 I’m looking to collaborate on [My HTML (and JavaScript) Learning Website](https://github.com/ahmadk953/html-lerning-website-101)
 
