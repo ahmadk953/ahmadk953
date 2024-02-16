@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadk953" alt="ahmadk953" /></a> </p>
 
-- 🔭 I’m currently working on [Threads Clone](https://github.com/ahmadk953/threads-clone)
+- 🔭 I’m currently working on [Tasko](https://github.com/ahmadk953/tasko)
 
 - 🌱 I’m currently learning **C++ and other Low-Level languages, Python, JavaScript, TypeScript, and Java**
 
