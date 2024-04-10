@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Tasko](https://github.com/ahmadk953/tasko)
 
-- 🌱 I’m currently learning **C++ and other Low-Level languages, Python, JavaScript, TypeScript, and Java**
+- 🌱 I’m currently learning **Low-Level (and a few high-level) programming launguages and other technologies**
 
-- 👯 I’m looking to collaborate on [My HTML (and JavaScript) Learning Website](https://github.com/ahmadk953/html-lerning-website-101)
+- 👯 I’m looking to collaborate on [Tasko](https://github.com/ahmadk953/tasko)
 
-- 🤝 I’m looking for help with [My First Docker Image](https://github.com/ahmadk953/my-first-docker-image)
+- 🤝 I’m looking for help with [Tasko](https://github.com/ahmadk953/tasko)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadk953](https://github.com/ahmadk953)
 
