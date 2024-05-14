@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Tasko](https://github.com/ahmadk953/tasko)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmadk953](https://github.com/ahmadk953)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/ahmadk953)
 
 - 💬 Ask me about **Typescript, JavaScript, Python, and other things!**
 
