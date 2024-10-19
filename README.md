@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadk953&show_icons=true&theme=dark&locale=en" alt="ahmadk953" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadk953&theme=dark" alt="ahmadk953" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ahmadk953&theme=dark" alt="ahmadk953" /></p>
