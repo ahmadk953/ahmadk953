@@ -17,7 +17,7 @@ jobs:
           config_timezone: America/New_York
           base_indepth: yes
           config_display: columns
-          config_padding: 8 + 8%, 50 + 100%
+          config_padding: 8 + 8%, 75 + 150%
 
           plugin_achievements: yes
           plugin_activity: yes
