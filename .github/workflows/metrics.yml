@@ -42,6 +42,7 @@ jobs:
           plugin_leetcode_sections: solved, skills, recent
 
           plugin_wakatime: yes
+          plugin_wakatime_url: ${{ secrets.WAKATIME_URL }}
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_languages_ignored: >-
             dockerfile, makefile, shell, markdown, json, html, css
