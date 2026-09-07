@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: gh-metrics/metrics@latest # lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@main # lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
