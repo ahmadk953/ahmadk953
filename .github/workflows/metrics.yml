@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest # lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
@@ -41,11 +41,11 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
 
-          plugin_wakatime: yes
-          plugin_wakatime_url: ${{ secrets.WAKATIME_URL }}
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_languages_ignored: >-
-            dockerfile, makefile, shell, markdown, json, html, css
+          # plugin_wakatime: yes
+          # plugin_wakatime_url: ${{ secrets.WAKATIME_URL }}
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          # plugin_wakatime_languages_ignored: >-
+          #   dockerfile, makefile, shell, markdown, json, html, css
 
           plugin_code: yes
           plugin_code_languages: javascript, typescript, java, tsx, jsx, c, c++
